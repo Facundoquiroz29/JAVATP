@@ -42,13 +42,8 @@ public class TPFinal1 {
 	        }*/
 	        
 	        //seguir tp final, funciona desde pc w, y nt l
-		}
-<<<<<<< HEAD
+	        
+	}
 	
-	
-	//configando github nuevos cambios ultimos notebok windwos , ultimo cambio real notebook
-	//buenas noches adiosa aadiosssssssss
-	
-=======
->>>>>>> 36d93fa1ca8ddd0f31618b31ccf9cca80035c697
+	// Funcionando nuevamente
 }
