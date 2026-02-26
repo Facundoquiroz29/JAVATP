@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #Thu Feb 26 05:29:03 ART 2026
 host=DESKTOP-HS1C9CK
 process-id=12304
 user=fadaq
+=======
+#Thu Feb 26 02:36:09 ART 2026
+display=\:0
+host=HPLaptop
+process-id=3339
+user=facudev
+>>>>>>> 36d93fa1ca8ddd0f31618b31ccf9cca80035c697
