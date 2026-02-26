@@ -41,6 +41,6 @@ public class TPFinal1 {
 	        	 System.out.println(curso.getAlumnos().get(i).mostrarInformacion());
 	        }*/
 	        
-	        //seguir tp final
+	        //seguir tp final, funciona desde pc w, y nt l
 		}
 }
