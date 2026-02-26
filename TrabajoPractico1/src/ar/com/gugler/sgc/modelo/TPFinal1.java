@@ -41,8 +41,4 @@ public class TPFinal1 {
 	        	 System.out.println(curso.getAlumnos().get(i).mostrarInformacion());
 	        }*/
 		}
-	
-	
-	//configando github nuevos cambios ultimos notebok windwos , ultimo cambio real notebol
-	
 }
