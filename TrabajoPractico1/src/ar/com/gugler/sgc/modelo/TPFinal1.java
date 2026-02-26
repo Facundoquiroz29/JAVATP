@@ -40,5 +40,7 @@ public class TPFinal1 {
 	        {
 	        	 System.out.println(curso.getAlumnos().get(i).mostrarInformacion());
 	        }*/
+	        
+	        //seguir tp final
 		}
 }
